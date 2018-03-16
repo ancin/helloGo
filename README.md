@@ -1,3 +1,3 @@
 
 Go sample project.
-And its include some sample.
+And its include some samples.
